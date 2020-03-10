@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06fddb9e-4cc9-43a5-97a9-a66f7f928796" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YsIvXJjx9vdeKqZngI4lLxa2Vw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for periksaPasien.PeriksaPasien.test_01_login_karyawan_invalid">
+    <configuration name="Unittests for loginKaryawan.LoginTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;loginKaryawan.LoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for periksaPasien.PeriksaPasien" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;periksaPasien.PeriksaPasien&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for periksaPasien.PeriksaPasien.test_01_login_karyawan_invalid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;periksaPasien.PeriksaPasien.test_01_login_karyawan_invalid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for periksaPasien.PeriksaPasien.test_periksa_pasien_valid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;periksaPasien.PeriksaPasien.test_periksa_pasien_valid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POMProjectDemo/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/POMProjectDemo/Test/login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="tests" factoryName="Unittests">
+      <module name="Python Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;POMProjectDemo.Test.login.LoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.login" />
+      <item itemvalue="Python tests.Unittests in login.py" />
+      <item itemvalue="Python tests.Unittests for loginKaryawan.LoginTest" />
+      <item itemvalue="Python tests.Unittests for periksaPasien.PeriksaPasien.test_periksa_pasien_valid" />
+      <item itemvalue="Python tests.Unittests for periksaPasien.PeriksaPasien" />
+      <item itemvalue="Python tests.Unittests for periksaPasien.PeriksaPasien.test_01_login_karyawan_invalid" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for periksaPasien.PeriksaPasien.test_01_login_karyawan_invalid" />
+        <item itemvalue="Python tests.Unittests for periksaPasien.PeriksaPasien" />
+        <item itemvalue="Python tests.Unittests for periksaPasien.PeriksaPasien.test_periksa_pasien_valid" />
+        <item itemvalue="Python tests.Unittests for loginKaryawan.LoginTest" />
+        <item itemvalue="Python tests.Unittests in login.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06fddb9e-4cc9-43a5-97a9-a66f7f928796" name="Default Changelist" comment="" />
+      <created>1583725106520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583725106520</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="0" key="#First_code" timestamp="1583735353369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="0" key="#First_code/0.0.1366.728@0.0.1366.728" timestamp="1583735353369" />
+    <state x="205" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583798742471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="205" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583798742471" />
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583734478758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1583734478758" />
+    <state x="480" y="166" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583798555889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="166" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583798555889" />
+    <state x="417" y="125" key="EnvironmentVariablesDialog" timestamp="1583734485076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="125" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583734485076" />
+    <state x="505" y="279" key="Github.CreateGistDialog" timestamp="1583811898656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="279" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1583811898656" />
+    <state width="1345" height="273" key="GridCell.Tab.0.bottom" timestamp="1583810704144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583810704144" />
+    <state width="1345" height="273" key="GridCell.Tab.0.center" timestamp="1583810704143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583810704143" />
+    <state width="1345" height="273" key="GridCell.Tab.0.left" timestamp="1583810704143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583810704143" />
+    <state width="1345" height="273" key="GridCell.Tab.0.right" timestamp="1583810704143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583810704143" />
+    <state x="316" y="12" key="SettingsEditor" timestamp="1583803208075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="316" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583803208075" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583736941124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583736941124" />
+  </component>
+</project>
